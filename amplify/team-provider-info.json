@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drfutapp-dev-215218-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905025314811:role/amplify-drfutapp-dev-215218-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905025314811:role/amplify-drfutapp-dev-215218-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-drfutapp-dev-215218-deployment",
+      "UnauthRoleName": "amplify-drfutapp-dev-215218-unauthRole",
+      "StackName": "amplify-drfutapp-dev-215218",
+      "StackId": "arn:aws:cloudformation:us-east-2:905025314811:stack/amplify-drfutapp-dev-215218/ff292cf0-bfd2-11ee-a0f3-0ab6fa9144c9",
+      "AmplifyAppId": "d1pzf0qthhfj98"
+    },
+    "categories": {
+      "auth": {
+        "drfutapp3283b338": {}
+      },
+      "api": {
+        "drfutapp": {}
+      }
+    }
+  }
+}
